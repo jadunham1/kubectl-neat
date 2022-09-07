@@ -18,7 +18,7 @@ package defaults
 import (
 	"testing"
 
-	"github.com/itaysk/kubectl-neat/pkg/testutil"
+	"github.com/jadunham1/kubectl-neat/pkg/testutil"
 )
 
 func TestComputeDefault(t *testing.T) {
